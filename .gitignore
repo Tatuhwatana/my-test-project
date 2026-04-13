@@ -1,8 +1,0 @@
-.venv/
-
-# Pythonのキャッシュ
-__pycache__/
-*.pyc
-
-# Macの設定ファイル
-.DS_Store
